@@ -12,5 +12,5 @@ spec:
   project: default
   source:
     path: my-apps/app-1
-    repoURL: https://github.com/moopuck/argo-app-of-apps.git
+    repoURL: https://github.com/champ6699/argocd-app-of-apps.git
     targetReversion: HEAD
